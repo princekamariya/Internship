@@ -1,5 +1,5 @@
 
-# NodeJs-Mini-Project
+# Internship Week_3 :
 
 This Repository contains all work done that done during internship week 3.
 
